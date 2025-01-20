@@ -17,7 +17,7 @@ Olá! Meu nome é Mateus Ramos, tenho 23 anos e atualmente estou cursando o pen�
 ### 📌 Análise de Regressão Espacial da Dengue no Nordeste
 Desenvolvimento de modelos para estudar a distribuição geográfica da dengue, destacando padrões e tendências regionais.
 
-[Veja o repositório aqui](#)
+[Veja o repositório aqui]((https://github.com/Mateuszsr/PIBIC---DENGUE-2024---NORDESTE))
 
 ### 📌 Análise de Série Temporal
 Investigação de dados temporais com foco na identificação de tendências e sazonalidades em conjuntos de dados complexos.
