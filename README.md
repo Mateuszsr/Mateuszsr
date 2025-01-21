@@ -14,15 +14,15 @@ Olá! Meu nome é Mateus Ramos, tenho 23 anos e atualmente estou cursando o pen�
 ---
 
 ## 🌟 Projetos em Destaque
-### 📌 Análise de Regressão Espacial da Dengue no Nordeste
+### 📌 Análise de Regressão Espacial da Dengue no Nordeste (EM PROGRESSO)
 Desenvolvimento de modelos para estudar a distribuição geográfica da dengue, destacando padrões e tendências regionais.
 
 [Veja o repositório aqui](https://github.com/Mateuszsr/PIBIC---DENGUE-2024---NORDESTE)
 
-### 📌 Análise de Série Temporal
-Investigação de dados temporais com foco na identificação de tendências e sazonalidades em conjuntos de dados complexos.
+### 📌 Análise Temporal dos Casos de Dengue em Sergipe
+Este projeto visa explorar a evolução temporal dos casos de dengue no estado de Sergipe, utilizando técnicas de análise de séries temporais para identificar padrões, sazonalidade e tendências que possam auxiliar na compreensão e no combate à doença.
 
-[Veja o repositório aqui](#)
+[Veja o repositório aqui](https://github.com/Mateuszsr/Analise-Temporal---DENGUE-SE)
 
 ### 📌 Regressão Logística
 Aplicação de modelos de regressão logística para classificação e análise preditiva em diferentes contextos.
