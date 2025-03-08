@@ -5,7 +5,7 @@ Bem-vindo ao meu portfólio! Aqui você encontrará projetos e análises que des
 ---
 
 ## 🔍 Sobre Mim
-Olá! Meu nome é Mateus Ramos, tenho 23 anos e atualmente estou cursando o penúltimo período de Estatística. Sou participante ativo do PIBIC e apaixonado por explorar o mundo dos dados para extrair insights valiosos.
+Olá! Meu nome é Mateus Ramos, tenho 24 anos e atualmente estou cursando o penúltimo período de Estatística. Sou participante ativo do PIBIC e apaixonado por explorar o mundo dos dados para extrair insights valiosos.
 
 - 📈 Experiência sólida em R, Python, SQL e Power BI.
 - 🤖 Interesse e prática em Machine Learning e modelagem preditiva.
