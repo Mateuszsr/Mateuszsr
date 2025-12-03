@@ -24,10 +24,10 @@ Este projeto visa explorar a evolução temporal dos casos de dengue no estado d
 
 [Veja o repositório aqui](https://github.com/Mateuszsr/Analise-Temporal---DENGUE-SE)
 
-### 📌 Regressão Logística
-Aplicação de modelos de regressão logística para classificação e análise preditiva em diferentes contextos.
+### 📌 SQL em BigQuery.
+Análise e Tratamento dos Microdados de Violências (SINAN) — BigQuery + SQL
 
-[Veja o repositório aqui](#)
+[Veja o repositório aqui](https://github.com/Mateuszsr/SQL---Sinan-dates)
 
 ---
 
